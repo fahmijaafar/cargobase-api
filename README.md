@@ -13,7 +13,7 @@
 ```
 python -m venv venv
 
-source venv/bin/activate OR \venv\bin\activate.ps1 if you're on windows
+source venv/bin/activate OR .\venv\Scripts\activate.ps1 if you're on windows
 ```
 2. Running the application
 ```
